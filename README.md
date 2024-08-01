@@ -9,9 +9,11 @@ index.query(query)
 
 **Note:** it uses your open-ai api key, so you need to set it up first, and indexing may take a while.
 
+codes and implementations are inspired by *Matthew Berman*.
+
 ---
 
-Also some useful links:
+also some useful links:
 
 **CPU Scheduling Algorithms**  
 https://vasu-gondaliya.github.io/cpu-scheduling-algorithms/ 
