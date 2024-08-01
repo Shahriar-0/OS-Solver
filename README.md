@@ -8,3 +8,22 @@ index.query(query)
 ```
 
 **Note:** it uses your open-ai api key, so you need to set it up first, and indexing may take a while.
+
+---
+
+Also some useful links:
+
+**CPU Scheduling Algorithms**  
+https://vasu-gondaliya.github.io/cpu-scheduling-algorithms/ 
+
+https://process-scheduling-solver.boonsuen.com/
+
+**Deadlock Detection Algorithm**  
+https://jangidbhanu.github.io/BankersAlgorithm/
+
+**Page Replacement Algorithms**  
+https://solver.assistedcoding.eu/page_replacement
+
+https://os-project-page-replacement.vercel.app/
+
+https://github.com/d-maniatakos/page-replacement-algorithms-simulation.git
